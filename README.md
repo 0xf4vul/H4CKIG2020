@@ -42,7 +42,7 @@ Your [contributions](contributing.md) are always welcome !
 # cd H4CKIG2020
 
 # Jalankan script hack nya, dengan menggunakan perintah berikut :
-# bash tebas.sh
+# sh hack.sh
 
 # Setelah itu, kalian akan disuguhi beberapa opsi atau menu, kalian tinggal pilih salah satu. 
 
