@@ -32,6 +32,7 @@ Your [contributions](contributing.md) are always welcome !
 # pkg update && pkg upgrade
 
 # Setelah itu install git dan jq dengan menggunakan perintah berikut :
+# pkg install Bash
 # pkg install git && apt install jq -y
 
 # Klon atau download script hack instagram, dengan menggunakan perintah :
