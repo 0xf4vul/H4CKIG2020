@@ -1,3 +1,22 @@
+# Download Dulu Termux Di Playstore Anda KALAU Udah Tinggal Baca DI Bawah Ini Woke
+
+[![Build status](https://api.cirrus-ci.com/github/termux/termux-app.svg?branch=master)](https://cirrus-ci.com/termux/termux-app)
+[![Join the chat at https://gitter.im/termux/termux](https://badges.gitter.im/termux/termux.svg)](https://gitter.im/termux/termux)
+
+[Termux](https://termux.com) is an Android terminal application and Linux environment.
+
+- [Termux Reddit community](https://reddit.com/r/termux)
+- [Termux Wiki](https://wiki.termux.com/wiki/)
+- [Termux Twitter](http://twitter.com/termux/)
+
+Note that this repository is for the app itself (the user interface and the
+terminal emulation). For the packages installable inside the app, see
+[termux/termux-packages](https://github.com/termux/termux-packages)
+
+## Installation
+
+Termux:Widget application can be obtained from:
+
 ![HACK IG 2020](12b1b928b7a029867aabaadca437fda6.jpg)
 
 # [HACK IG 2020](https://github.com/ahmadchen/H4CKIG2020/) 
